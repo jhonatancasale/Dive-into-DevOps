@@ -1,0 +1,11 @@
+---
+james:
+   name: james john
+   rollNo: 34
+   div: B
+   sex: male
+   likes:
+      - maths
+      - physics
+      - english
+...
